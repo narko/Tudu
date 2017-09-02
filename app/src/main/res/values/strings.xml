@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tudu</string>
+    <string name="action_save">SAVE</string>
+    <string name="message_empty_list">Your TODO list is empty. Start adding tasks now!</string>
+</resources>
