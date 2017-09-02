@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 * [ ] Add support for completion due dates for todo items (and display within listview item)
 * [ ] Use a [DialogFragment](http://guides.codepath.com/android/Using-DialogFragment) instead of new Activity for editing items
 * [ ] Add support for selecting the priority of each todo item (and display in listview item)
-* [ ] Tweak the style improving the UI / UX, play with colors, images or backgrounds
+* [x] Tweak the style improving the UI / UX, play with colors, images or backgrounds
 
 The following **additional** features are implemented:
 
@@ -49,7 +49,10 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This app doesn't follow the guideline available at [http://courses.codepath.com/snippets/intro_to_android/prework.md]. Instead the following alternatives have been implemented:
+* Use of RecyclerView.
+* Use of [Schematic](https://github.com/SimonVT/schematic) for generating the ContentProvider and the necesary code for dealing with SQLite.
+* Swipe gestures for deleting items directly from the RecyclerView.
 
 ## License
 
