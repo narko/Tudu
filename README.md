@@ -49,7 +49,7 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 
 ## Notes
 
-This app doesn't follow the guideline available at [http://courses.codepath.com/snippets/intro_to_android/prework.md]. Instead the following alternatives have been implemented:
+This app doesn't follow the guideline available at [Codepath](http://courses.codepath.com/snippets/intro_to_android/prework.md). Instead the following alternatives have been implemented:
 * Use of RecyclerView.
 * Use of [Schematic](https://github.com/SimonVT/schematic) for generating the ContentProvider and the necesary code for dealing with SQLite.
 * Swipe gestures for deleting items directly from the RecyclerView.
